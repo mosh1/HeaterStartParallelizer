@@ -1,17 +1,12 @@
 # HeaterStartParallizer
 Cura plugin to start your bed and extruder heater in parallel.
 
-# Installation
+Installation
+==========
 Add to Cura as a plugin:
 
-Open Cura
-
-Go to the Plugins tab
-
-Click on "Open plugin location"
-
-Drag HeaterStartParallizer.py into plugin location
-
-Alternatively, copy HeaterStartParallizer.py to ~/.cura.plugins (OSX)
-
-Restart Cura
+1. Open Cura
+2. Go to the Plugins tab
+3. Click on "Open plugin location"
+4. Drag HeaterStartParallizer.py into plugin location (or copy to ~/.cura/plugins for OSX)
+5. Restart Cura
