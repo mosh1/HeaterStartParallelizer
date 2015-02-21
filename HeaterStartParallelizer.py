@@ -1,4 +1,4 @@
-#Name: Heater Start Parallizer
+#Name: Heater Start Parallelizer
 #Info: Start extruder heating at specified temperature offset from target bed temperature.
 #Depend: GCode
 #Type: postprocess
