@@ -6,7 +6,6 @@ Usage
 Specify a temperature offset from the target bed temperature that will start the extruder heater. The trick is to find an offset so that both will reach printing temps at about the same time (like the example image below) with your typical print temperatures. If the target bed temp is 65C and the offset is set to 10C, then the extruder heater will start heating at 55C.
 
 ![](https://raw.githubusercontent.com/mosh1/HeaterStartParallizer/master/Example.jpg)
-
 Installation
 ==========
 Add to Cura as a plugin:
